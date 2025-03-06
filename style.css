@@ -6,8 +6,8 @@ body {
 }
 footer {
     background-color: cornflowerblue;
-    padding: 3px;
-    margin-bottom: 0;
+    padding-top: 4px;
+    padding-left: 4px;
     text-align: center;
 }
 nav{
@@ -15,7 +15,9 @@ nav{
     padding: 3px;
     margin-bottom: 0;
     margin-top:0%;
-    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around;
 }
 .active {
     text-decoration: bold;
