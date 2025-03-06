@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headshot{
+    width: 200px;
+}
+footer {
+    background-color: cornflowerblue;
+    padding: 3px;
+    margin-bottom: 0;
+    text-align: center;
+}
+nav{
+    background-color: cornflowerblue;
+    padding: 3px;
+    margin-bottom: 0;
+    margin-top:0%;
+    text-align: center;
+}
+.active {
+    text-decoration: bold;
+    text-decoration-color: tomato;
+    text-decoration-thickness: 4px;
+}
+a:link {
+    color: black;
+}
