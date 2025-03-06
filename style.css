@@ -14,6 +14,7 @@ nav{
     background-color: cornflowerblue;
     padding: 3px;
     margin-bottom: 0;
+    margin-top:0%;
     text-align: center;
 }
 .active {
@@ -22,5 +23,5 @@ nav{
     text-decoration-thickness: 4px;
 }
 a:link {
-    color: white;
+    color: black;
 }
