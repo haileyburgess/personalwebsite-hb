@@ -76,14 +76,14 @@ a:hover {
     grid-row: 1;
     justify-self: center;
     /* margin-top: 35px; */
-    margin-left: 20px;
+    /* margin-left: 20px; */
     word-wrap: break-word;
     overflow-wrap: break-word;
 }
 .linkedin {
     display: grid;
-    grid-column: 3;
-    grid-row: 2;
+    grid-column: 1;
+    grid-row: 4;
 }
 .myname {
     display: grid;
