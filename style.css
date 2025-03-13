@@ -84,9 +84,8 @@ a:link {
     /* gap: 20px; */
     justify-items: center;
     align-items: center;
-    scroll-padding-top: 20px;
     height: 60vh;
-    width: 80vw;
+    width: 100vw;
     max-height: 800px;
     max-width: 1200px;
 }
@@ -146,7 +145,8 @@ a:link {
     grid-row: 3;
 }
 a:hover {
-    background-color: lightblue;
+    background-color: tomato;
+    color: white;
 }
 .homepage {
     display: grid;
